@@ -1,4 +1,12 @@
-## 📦 Repositories
+## 🚀 **Overview**
+
+### ⭐ **Stars Across Repositories:** ![Total Stars](https://img.shields.io/github/stars/Mythical-Github?style=social&color=%23f8bbd0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythical-Github&layout=compact&theme=radical)
+
+---
+
+## 📦 **Repositories**
 
 ### 🛠️ **Unreal Engine Related**
 
