@@ -12,7 +12,7 @@
 
 | Repository | Description | Badge |
 |------------|-------------|-------|
-| [UnrealAutoMod](https://github.com/Mythical-Github/UnrealAutoMod) | A comprehensive CLI mod build tool for Unreal Engine designed to automate modding tasks. | ![UnrealAutoMod](https://img.shields.io/github/stars/Mythical-Github/UnrealAutoMod?style=social&color=%23f8bbd0) |
+| [unreal_auto_mod](https://github.com/Mythical-Github/unreal_auto_mod) | A comprehensive CLI mod build tool for Unreal Engine designed to automate modding tasks. | ![UnrealAutoMod](https://img.shields.io/github/stars/Mythical-Github/UnrealAutoMod?style=social&color=%23f8bbd0) |
 | [UnrealAutoModInEditor](https://github.com/Mythical-Github/UnrealAutoModInEditor) | A plugin for Unreal Engine that integrates UnrealAutoMod features directly into the editor. | ![UnrealAutoModInEditor](https://img.shields.io/github/stars/Mythical-Github/UnrealAutoModInEditor?style=social&color=%23f8bbd0) |
 | [UnrealToDoList](https://github.com/Mythical-Github/UnrealToDoList) | An in editor to do list plugin, with theme support, for productivity. | ![UnrealToDoList](https://img.shields.io/github/stars/Mythical-Github/UnrealToDoList?style=social&color=%23f8bbd0) |
 
