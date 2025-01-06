@@ -22,7 +22,7 @@
 |------------|-------------|-------|
 | [black_ops_mod_tools_installer](https://github.com/Mythical-Github/Black-Ops-Mod-Tools-Installer) | A tool for installing and setting up mod tools and their fixes for Call of Duty Black Ops. | ![Black-Ops-Mod-Tools-Installer](https://img.shields.io/github/stars/Mythical-Github/Black-Ops-Mod-Tools-Installer?style=social&color=%23d1c4e9) |
 | [codrscrape](https://github.com/Mythical-Github/codrscrape) | A scraper for Call of Duty mod data for the website [CallofDutyRepo](https://callofdutyrepo.com/). | ![codrscrape](https://img.shields.io/github/stars/Mythical-Github/codrscrape?style=social&color=%23d1c4e9) |
-| [plutonium_launcher](https://github.com/Mythical-Github/plutonium_launcher) | A launcher for Call of Duty client Plutonium, currently supports LAN only. | ![plutonium_launcher](https://img.shields.io/github/stars/Mythical-Github/plutonium_launcher?style=social&color=%23d1c4e9) |
+| [plutonium_launcher_tui](https://github.com/Mythical-Github/plutonium_launcher_tui) | A text based ui launcher for the plutonium cod client. | ![plutonium_launcher_tui](https://img.shields.io/github/stars/Mythical-Github/plutonium_launcher_tui?style=social&color=%23d1c4e9) |
 
 ### 🧟 **Zedfest Modding**
 
