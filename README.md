@@ -46,7 +46,7 @@
 
 | Repository | Description | Badge |
 |------------|-------------|-------|
-| [ZedfestModdingKit](https://github.com/ZedfestModding/ZedfestModdingKit) | A toolkit for modding Zedfest, primarily for adding custom maps currently. | ![ZedfestModdingKit](https://img.shields.io/github/stars/ZedfestModding/ZedfestModdingKit?style=social&color=%23c5e1a5) |
+| [ZedfestModdingKit](https://github.com/ZedfestModding/ZedfestModdingKit) | A toolkit for modding Zedfest, primarily for adding custom maps currently, can also load blueprints. | ![ZedfestModdingKit](https://img.shields.io/github/stars/ZedfestModding/ZedfestModdingKit?style=social&color=%23c5e1a5) |
 
 ### 🕹️ **Killing Floor Series Projects**
 
