@@ -53,6 +53,6 @@
 | Repository | Description | Badge |
 |------------|-------------|-------|
 | [kf1_mods_installer](https://github.com/Mythical-Github/kf1_mods_installer) | An installer for mods for Killing Floor 1, meant to alleviate workshop and unpacking issues. | ![kf1_mods_installer](https://img.shields.io/github/stars/Mythical-Github/kf1_mods_installer?style=social&color=%23c5e1a5) |
-| [kf2_modding_utility](https://github.com/Mythical-Github/kf2_modding_utility) | A GUI utility for automating modding for Killing Floor 2. | ![kf2_modding_utility](https://img.shields.io/github/stars/Mythical-Github/kf2_modding_utility?style=social&color=%23c5e1a5) |
+| [kf2_modding_utility](https://github.com/Mythical-Github/kf2_modding_utility) | Build tools with a GUI built using PyQt5, meant to speeden and alleviate modding issues, for the game Killing Floor 2. | ![kf2_modding_utility](https://img.shields.io/github/stars/Mythical-Github/kf2_modding_utility?style=social&color=%23c5e1a5) |
 
 </div>
