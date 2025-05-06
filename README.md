@@ -34,25 +34,3 @@
 | [UnrealEngineRUI](https://github.com/Mythical-Github/UnrealEngineRUI) | A reusable color-themed UI kit for Unreal Engine. | ![UnrealEngineRUI](https://img.shields.io/github/stars/Mythical-Github/UnrealEngineRUI?style=social&color=%23f8bbd0) |
 | [shoal](https://github.com/Mythical-Github/shoal) | A TUI frontend for several Call of Duty mod clients/projects. | ![shoal](https://img.shields.io/github/stars/Mythical-Github/shoal?style=social&color=%23d1c4e9) |
 
-### 🎮 **Call of Duty Projects**
-
-| Repository | Description | Badge |
-|------------|-------------|-------|
-| [black_ops_mod_tools_installer](https://github.com/Mythical-Github/Black-Ops-Mod-Tools-Installer) | A tool for installing and setting up mod tools and their fixes for Call of Duty Black Ops. | ![Black-Ops-Mod-Tools-Installer](https://img.shields.io/github/stars/Mythical-Github/Black-Ops-Mod-Tools-Installer?style=social&color=%23d1c4e9) |
-| [codrscrape](https://github.com/Mythical-Github/codrscrape) | A scraper for Call of Duty mod data for the website [CallofDutyRepo](https://callofdutyrepo.com/). | ![codrscrape](https://img.shields.io/github/stars/Mythical-Github/codrscrape?style=social&color=%23d1c4e9) |
-| [shoal](https://github.com/Mythical-Github/shoal) | A tui frontend for several Call of Duty mod clients/projects. | ![shoal](https://img.shields.io/github/stars/Mythical-Github/shoal?style=social&color=%23d1c4e9) |
-
-### 🧟 **Zedfest Projects**
-
-| Repository | Description | Badge |
-|------------|-------------|-------|
-| [ZedfestModdingKit](https://github.com/ZedfestModding/ZedfestModdingKit) | A toolkit for modding Zedfest, primarily for adding custom maps currently, can also load blueprints. | ![ZedfestModdingKit](https://img.shields.io/github/stars/ZedfestModding/ZedfestModdingKit?style=social&color=%23c5e1a5) |
-
-### 🕹️ **Killing Floor Series Projects**
-
-| Repository | Description | Badge |
-|------------|-------------|-------|
-| [kf1_mods_installer](https://github.com/Mythical-Github/kf1_mods_installer) | An installer for mods for Killing Floor 1, meant to alleviate workshop and unpacking issues. | ![kf1_mods_installer](https://img.shields.io/github/stars/Mythical-Github/kf1_mods_installer?style=social&color=%23c5e1a5) |
-| [kf2_modding_utility](https://github.com/Mythical-Github/kf2_modding_utility) | Build tools with a GUI built using PyQt5, meant to speeden and alleviate modding issues, for the game Killing Floor 2. | ![kf2_modding_utility](https://img.shields.io/github/stars/Mythical-Github/kf2_modding_utility?style=social&color=%23c5e1a5) |
-
-</div>
