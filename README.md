@@ -4,8 +4,7 @@
 
 ![Total Stars](https://img.shields.io/github/stars/Mythical-Github?style=social&color=%23f8bbd0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythical-Github&layout=compact&theme=radical)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mythical-Github&langs_count=2&theme=rose_pine)](https://github-stats-extended.vercel.app/api/top-langs?username=Mythical-Github&langs_count=2&theme=rose_pine)
 ### 🛠️ **Unreal Engine Projects**
 
 | Repository | Description | Badge |
